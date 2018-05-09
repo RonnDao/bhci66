@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "zsk_browser/pages/index/index",
+    "zsk_browser/pages/index/test"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "网页小程序",
+    "navigationBarBackgroundColor": "#001725",
+    "backgroundColor": "#f5f5f5",
+    "enablePullDownRefresh": true
+  }
+}
